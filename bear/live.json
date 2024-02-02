@@ -2,7 +2,7 @@
    "lives":[
       {
          "name":"Joytv",
-         "url":"http://e93033-1.000webhostapp.com/bear/txt/joytv.txt",
+         "url":"https://github.com/wangpaoyuan/Live-TV/blob/main/bear/txt/joytv.txt",
          "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
          "logo": "https://epg.112114.xyz/logo/{name}.png",
          "core":{
@@ -16,7 +16,7 @@
       },
       {
          "name":"OKTV",
-         "url":"http://e93033-1.000webhostapp.com/bear/txt/oktv.txt",
+         "url":"https://github.com/wangpaoyuan/Live-TV/blob/main/bear/txt/oktv.txt",
 "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
   "logo": "https://epg.112114.xyz/logo/{name}.png",
          "core":{
@@ -30,7 +30,7 @@
       },
       {
          "name":"秒看",
-         "url":"http://e93033-1.000webhostapp.com/bear/txt/sectv.txt",
+         "url":"https://github.com/wangpaoyuan/Live-TV/blob/main/bear/txt/sectv.txt",
 "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
   "logo": "https://epg.112114.xyz/logo/{name}.png",
          "core":{
@@ -46,7 +46,7 @@
       },
       {
          "name":"小雲",
-         "url":"http://e93033-1.000webhostapp.com/bear/txt/svicloud.txt",
+         "url":"https://github.com/wangpaoyuan/Live-TV/blob/main/bear/txt/svicloud.txt",
          "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
   "logo": "https://epg.112114.xyz/logo/{name}.png",
          "core":{
@@ -61,7 +61,7 @@
       },
       {
          "name":"優格CR",
-         "url":"http://e93033-1.000webhostapp.com/bear/txt/YogurtCR.txt",
+         "url":"https://github.com/wangpaoyuan/Live-TV/blob/main/bear/txt/YogurtCR.txt",
          "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
   "logo": "https://epg.112114.xyz/logo/{name}.png",
          "core":{
@@ -78,7 +78,7 @@
       "name": "🌏央視頻",
       "type": 0,
 	  "playerType": 2,
-	  "url": "http://e93033-1.000webhostapp.com/bear/txt/ysp.m3u",
+	  "url": "https://github.com/wangpaoyuan/Live-TV/blob/main/bear/txt/ysp.m3u",
       "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
 	  "logo": "https://epg.112114.xyz/logo/{name}.png",	  
 	  "header": {
