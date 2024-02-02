@@ -78,7 +78,7 @@
       "name": "🌏央視頻",
       "type": 0,
 	  "playerType": 2,
-	  "url": "https://github.com/wangpaoyuan/Live-TV/blob/main/bear/txt/ysp.m3u",
+	  "url": "https://raw.githubusercontent.com/wangpaoyuan/Live-TV/main/bear/txt/ysp.m3u",
       "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
 	  "logo": "https://epg.112114.xyz/logo/{name}.png",	  
 	  "header": {
