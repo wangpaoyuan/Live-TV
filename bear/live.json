@@ -2,7 +2,7 @@
    "lives":[
       {
          "name":"Joytv",
-         "url":"https://github.com/wangpaoyuan/Live-TV/blob/main/bear/txt/joytv.txt",
+         "url":"https://raw.githubusercontent.com/wangpaoyuan/Live-TV/main/bear/txt/joytv.txt",
          "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
          "logo": "https://epg.112114.xyz/logo/{name}.png",
          "core":{
@@ -16,7 +16,7 @@
       },
       {
          "name":"OKTV",
-         "url":"https://github.com/wangpaoyuan/Live-TV/blob/main/bear/txt/oktv.txt",
+         "url":"https://raw.githubusercontent.com/wangpaoyuan/Live-TV/blob/main/bear/txt/oktv.txt",
 "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
   "logo": "https://epg.112114.xyz/logo/{name}.png",
          "core":{
@@ -30,7 +30,7 @@
       },
       {
          "name":"秒看",
-         "url":"https://github.com/wangpaoyuan/Live-TV/blob/main/bear/txt/sectv.txt",
+         "url":"https://raw.githubusercontent.com/wangpaoyuan/Live-TV/blob/main/bear/txt/sectv.txt",
 "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
   "logo": "https://epg.112114.xyz/logo/{name}.png",
          "core":{
@@ -46,7 +46,7 @@
       },
       {
          "name":"小雲",
-         "url":"https://github.com/wangpaoyuan/Live-TV/blob/main/bear/txt/svicloud.txt",
+         "url":"https://raw.githubusercontent.com/wangpaoyuan/Live-TV/blob/main/bear/txt/svicloud.txt",
          "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
   "logo": "https://epg.112114.xyz/logo/{name}.png",
          "core":{
@@ -61,7 +61,7 @@
       },
       {
          "name":"優格CR",
-         "url":"https://github.com/wangpaoyuan/Live-TV/blob/main/bear/txt/YogurtCR.txt",
+         "url":"https://raw.githubusercontent.com/wangpaoyuan/Live-TV/blob/main/bear/txt/YogurtCR.txt",
          "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
   "logo": "https://epg.112114.xyz/logo/{name}.png",
          "core":{
