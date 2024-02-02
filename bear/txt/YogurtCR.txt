@@ -1,0 +1,19 @@
+小雲CR,#genre#
+松視3台,tvbus://8V6ax5wximJSbDbRyRkLJ9uKsbZBtHzKkkHyheRYsCDQn1NkyZ
+松視2台,tvbus://7Fvko3o3z1zbb8r8EdRVft1FvBpGmsfJbvRY6f8DwF5veGQgoo
+松視1台,tvbus://8QVYgbvvCmRA3JyAKsv451Qth5jdbRJWzmejsxrKShFtmRmwdw
+彩虹e台,tvbus://886X3enkj3aVyfRZeCCPGh9tcy7RjYZX3YipwEEqW8B5N8HP9V
+K頻道,tvbus://8GwyVVSjAdtbXuVsv5ogcKS1jEZA9FahAvgYoDs4nf45E5zdJ8
+HOT,tvbus://888v7qzrdgpEFVmqE3zdPLSVSkR3f4S99kmZts8psraWUriy5E
+香蕉台,tvbus://8DCHFc63w71ST1AqD22poPoDkoBpy4swXb5jfun4pCYqMJcJPH
+潘多拉粉紅,tvbus://7LPAET8LPKSb8B6PxhyNckv5XJd7bRKpyLRuKa4cXMQHUEshBj
+潘多拉玩美,tvbus://7d5w2TrSYS6Cwo4T35WoQem6j4uSXZCdLbf1gfHv2Katv9eb4s
+18 ADULT 7,tvbus://8iZJUbYEJBu7ZNBKEnsaeag4Lc6jJQtsrPpjPSxcKjM32Z2Yex
+18 ADULT 6,tvbus://8CWh3LkPS2yyT4MUwhXDmRxD5bRwCiJE5gKU8cPPBJnWWhvTMs
+18 ADULT 5,tvbus://7mNf75nkcyCRAVnmxM8ear6xhWmtRM94quxG6363cgYRR35oGh
+18 ADULT 4,tvbus://8AsN1XFgZnwQy7P2jJxMrmTjmZxx57g3ujjmmSPDoAkHThn7ej
+18 ADULT 3,tvbus://7N9JJtRoH94woNz3YJrUS8YqVqnTskDbFjdSgBHXNUd6fWbx8A
+18 ADULT 2,tvbus://7eEKJY5RzJsHCcajJ9b8ay7kPgPUqLi3Hzg3N9g4ULQcXGJHnp
+18 ADULT 10,tvbus://87T8HQD1NpY5fWwt73PwY36eqdoL9uDLLNN9pJ2UFLnMoRciQB
+18 ADULT 9,tvbus://7iS15LS31ADWbYWAWyWf1jUWaPVsFyckm5wMwwfAKj4HM5hRYV
+18 ADULT 8,tvbus://8bpFLdwsD1eK42EDEvZW7t5YUGiyTp2ZAJZABBHxCiqq19Ym3J
